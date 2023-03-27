@@ -3,7 +3,7 @@ const sideBage = document.querySelector("div.chat-widget__side");
 const userInputText = document.querySelector("input");
 const messages = document.querySelector(".chat-widget__messages");
 const botMessages = [
-  `Здрааааасьте`,
+  `Привет`,
   `Пффф, вот еще!`,
   ` `,
   `Что надо то? `,
@@ -13,7 +13,7 @@ const botMessages = [
   `У нас то всё хорошо, а у Вас?`,
   `Ну это, как бы я бот... чего Вы хотите от бота добиться?`,
   `Напишите завтра!`,
-  `Я передам Ваше послание... нашему дворнику :р`,
+  `Я передам Ваше послание... `,
   `Ваше сообщение почему-то стёрлось в моем чате...`,
   `У нас уже закрыто!`,
 ];
